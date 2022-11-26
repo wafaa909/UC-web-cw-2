@@ -1,0 +1,12 @@
+h1 { color:#F06292; text-align: center; font-size: 30px;
+    
+}
+
+body {background-color: antiquewhite; border-style: solid; margin: 1px; 
+    padding-left: 12px;}
+div{ background-color:#FCE2DB; border-top: 4px solid red;}
+
+.card {width: 500px; background-color:#FF8787; text-align: center;}
+
+#dish-name {color:white; }
+    
